@@ -23,7 +23,7 @@ function App() {
       .then((json) => {
         setIsLoading(false);
         setCaptionData(json);
-      }) //print data to console
+      }) //print data to console ggg
       .catch((err) => console.log("Request Failed", err));
   };
 
