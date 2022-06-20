@@ -1,0 +1,89 @@
+.header {
+  /* style={{
+    backgroundColor: "#B1BC55",
+    margin: 0,
+    height: 50,
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center",
+    color: "white",
+  }}
+} */
+
+background-color: #c8ee90;
+margin: 0px;
+height: 70px;
+display: flex;
+justify-content: center;
+align-items: center;
+color: black;
+font-weight:400;
+/* font-size: large; */
+font-family: monospace;
+
+}
+
+.caption-container {
+  border: 1px solid #B1BC55;
+  border-color: #B1BC55;
+
+  margin-inline: 20px;
+  overflow-y:auto
+
+
+
+
+}
+
+.loader-style {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.toast-text {
+  font-family: monospace;
+
+
+}
+.toast-text2 {
+  font-family: monospace;
+
+  background-color: #c8ee90;
+}
+.progress-color  {
+  background-color: #c8ee90;
+  color: #c8ee90;
+  
+}
+.title-info {
+  /* background-color: #c8ee90; */
+  margin: 0px;
+  /* height: 50px; */
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  color: black;
+  font-weight: 500;
+  font-size: 22px;
+  font-family: monospace;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  /* width: ; */
+
+}
+.title-header-second {
+  font-size: 20px;
+  font-family: monospace;
+  justify-content: center;
+  align-items: center;
+}
+.intro-para {
+
+  font-size: 18px;
+  font-family: monospace;
+  margin-inline: 20px;
+  /* margin-bottom: 30px; */
+  line-height: 30px;
+  margin-top: 15px;
+}
