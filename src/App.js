@@ -109,8 +109,8 @@ function App() {
           <div className="intro-para">
             Instagram is the most popular one in the social media space,
             Millennials use it to share their lifestyle and the brands are using
-            it to promote their business. So day by day the user amount is
-            increasing at a very high proportion.
+            it to promote their business. So day by day the use case of
+            Instagram is growing into areas that haven't been discovered before.
             {"                                            "}
             {/*    . Why choose us
           Ours is a single space that has the captions we have collected from
@@ -178,8 +178,12 @@ function App() {
           </div>
           <div className="intro-para">
             {" "}
-            Ours is a single space that has the captions we have collected from
-            different resources so that we could satisfy all your caption needs.{" "}
+            Our team researches Instagram and its marketing potential for
+            personal blogs and brands. We specifically concentrated on the
+            possibilities that a  good caption can bring to the table.  Bayerna
+            captions is a single space that has the captions we have collected
+            from different resources so that we could satisfy all your caption
+            needs. Bayerna Captions specialities are ;
           </div>{" "}
           <div className="intro-para">
             1. We pick the captions manually to match user needs{" "}
@@ -194,6 +198,46 @@ function App() {
           <div className="intro-para">
             4. We update the captions frequently, so you could always find
             something new.
+          </div>
+          <div className="title-info" style={{}}>
+            Why Instagram?
+          </div>
+          <div className="intro-para">
+            Instagram offers three ways to share our content, those are photos,
+            reels and stories. The majority of the time I spend on Instagram is
+            in reels.  There are so many content creators on Instagram. To get
+            the most recent updates from my favourite athletes and actors, I
+            head straight to Instagram. It's also a great platform for getting
+            updates from our favourite brands. If You haven't tried Instagram
+            yet,
+            <a
+              href="https://www.instagram.com/accounts/emailsignup/"
+              style={{ color: "#fb3958" }}
+            >
+              {" "}
+              You can Signup from here.
+            </a>
+          </div>
+          <div className="title-info" style={{}}>
+            What are Instagram captions?
+          </div>
+          <div className="intro-para">
+            The Instagram caption is a piece of text that you see along with the
+            Instagram posts, which will make the post either more memorable or
+            it explains the context. You can upload your posts with or without
+            the caption. Whatever the post you are trying to share, there will
+            be a point where you feel like something is missing, that gap can be
+            filled with a caption.
+          </div>
+          <div className="title-info" style={{}}>
+            Why Instagram captions?
+          </div>
+          <div className="intro-para" style={{ paddingBottom: 100 }}>
+            You can use an Instagram caption to share more information about
+            your posts. a caption can influence the way a viewer sees the post.
+            With a caption, you can connect more effectively with your audience.
+            Even the brands and the influencers spent a good time coming up with
+            a caption.
           </div>
         </div>
       </div>
