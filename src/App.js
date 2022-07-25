@@ -154,47 +154,61 @@ function App() {
             <h2>Our Features </h2>
             {/* <div>hello ddsjdjgkdg</div> */}
           </div>
-          
-            <div className="intro-para"><p>1. Free and Fast</p></div>{" "}
-            <div className="intro-para"><p>2.Ad-free environment</p></div>{" "}
-            <div className="intro-para">
-             <p> 3. No need to download an extra application </p>
-            </div>{" "}
-            <div className="intro-para"><p>
-              4. No need to sign up and provide your info</p>
-            </div>{" "}
-            <div className="intro-para"><p>5. Unlimited captions</p></div>
-          </p>
+          <div className="intro-para">
+            <p>1. Free and Fast</p>
+          </div>{" "}
+          <div className="intro-para">
+            <p>2.Ad-free environment</p>
+          </div>{" "}
+          <div className="intro-para">
+            <p> 3. No need to download an extra application </p>
+          </div>{" "}
+          <div className="intro-para">
+            <p>4. No need to sign up and provide your info</p>
+          </div>{" "}
+          <div className="intro-para">
+            <p>5. Unlimited captions</p>
+          </div>
           <div className="title-info" style={{}}>
             <h3>How to use Bayerna's Instagram Captions tool?</h3>
           </div>
           <div className="intro-para">
-            <p>Our tool is very simple that anyone could just visit and find the
-            caption you need. the steps are;</p>
+            <p>
+              Our tool is very simple that anyone could just visit and find the
+              caption you need. the steps are;
+            </p>
           </div>{" "}
-          <div className="intro-para"><p>1. Visit bayerna.com in your browser</p></div>{" "}
-          <div className="intro-para"><p>2. Select the right category for you</p></div>{" "}
           <div className="intro-para">
-            <p>3. If you don't know what you are looking for, browse through the
-            trending list</p>
+            <p>1. Visit bayerna.com in your browser</p>
+          </div>{" "}
+          <div className="intro-para">
+            <p>2. Select the right category for you</p>
+          </div>{" "}
+          <div className="intro-para">
+            <p>
+              3. If you don't know what you are looking for, browse through the
+              trending list
+            </p>
           </div>{" "}
           <div className="intro-para">
             <p>4. Copy the right caption that matches your need</p>
           </div>{" "}
           <div className="intro-para">
-           <p> 5. Paste it into your reel, posts and stories, enjoy 😁{</p>" "}
+            <p> 5. Paste it into your reel, posts and stories, enjoy 😁 </p>
           </div>
           <div className="title-info" style={{}}>
             <h3>Why choose us</h3>
           </div>
           <div className="intro-para">
             {" "}
-            <p>Our team researches Instagram and its marketing potential for
-            personal blogs and brands. We specifically concentrated on the
-            possibilities that a  good caption can bring to the table.  Bayerna
-            captions is a single space that has the captions we have collected
-            from different resources so that we could satisfy all your caption
-            needs. Bayerna Captions specialities are ; </p>
+            <p>
+              Our team researches Instagram and its marketing potential for
+              personal blogs and brands. We specifically concentrated on the
+              possibilities that a  good caption can bring to the table.
+               Bayerna captions is a single space that has the captions we have
+              collected from different resources so that we could satisfy all
+              your caption needs. Bayerna Captions specialities are ;{" "}
+            </p>
           </div>{" "}
           <div className="intro-para">
             1. We pick the captions manually to match user needs{" "}
@@ -214,42 +228,47 @@ function App() {
             <h3>Why Instagram? </h3>
           </div>
           <div className="intro-para">
-            <p>Instagram offers three ways to share our content, those are photos,
-            reels and stories. The majority of the time I spend on Instagram is
-            in reels.  There are so many content creators on Instagram. To get
-            the most recent updates from my favourite athletes and actors, I
-            head straight to Instagram. It's also a great platform for getting
-            updates from our favourite brands. If You haven't tried Instagram
-            yet,
-            <a
-              href="https://www.instagram.com/accounts/emailsignup/"
-              style={{ color: "#fb3958" }}
-            >
-              {" "}
-              You can Signup from here.
-            </a>
+            <p>
+              Instagram offers three ways to share our content, those are
+              photos, reels and stories. The majority of the time I spend on
+              Instagram is in reels.  There are so many content creators on
+              Instagram. To get the most recent updates from my favourite
+              athletes and actors, I head straight to Instagram. It's also a
+              great platform for getting updates from our favourite brands. If
+              You haven't tried Instagram yet,
+              <a
+                href="https://www.instagram.com/accounts/emailsignup/"
+                style={{ color: "#fb3958" }}
+              >
+                {" "}
+                You can Signup from here.
+              </a>
             </p>
           </div>
           <div className="title-info" style={{}}>
             <h3>What are Instagram captions? </h3>
           </div>
           <div className="intro-para">
-            <p>The Instagram caption is a piece of text that you see along with the
-            Instagram posts, which will make the post either more memorable or
-            it explains the context. You can upload your posts with or without
-            the caption. Whatever the post you are trying to share, there will
-            be a point where you feel like something is missing, that gap can be
-            filled with a caption.</p>
+            <p>
+              The Instagram caption is a piece of text that you see along with
+              the Instagram posts, which will make the post either more
+              memorable or it explains the context. You can upload your posts
+              with or without the caption. Whatever the post you are trying to
+              share, there will be a point where you feel like something is
+              missing, that gap can be filled with a caption.
+            </p>
           </div>
           <div className="title-info" style={{}}>
             <h3>Why Instagram captions? </h3>
           </div>
           <div className="intro-para" style={{ paddingBottom: 100 }}>
-            <p>You can use an Instagram caption to share more information about
-            your posts. a caption can influence the way a viewer sees the post.
-            With a caption, you can connect more effectively with your audience.
-            Even the brands and the influencers spent a good time coming up with
-            a caption.</p>
+            <p>
+              You can use an Instagram caption to share more information about
+              your posts. a caption can influence the way a viewer sees the
+              post. With a caption, you can connect more effectively with your
+              audience. Even the brands and the influencers spent a good time
+              coming up with a caption.
+            </p>
           </div>
         </div>
       </div>
