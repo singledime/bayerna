@@ -8,7 +8,7 @@ import SingleTitle from "../components/SingleTitle";
 import useWindowDimensions from "../services/useWindowDimensions";
 import { BallTriangle } from "react-loader-spinner";
 
-import { ToastContainer, toast } from "react-toastify";
+import { toast } from "react-toastify";
 
 export default function Home() {
   const notify = () => toast("Caption Copied");
