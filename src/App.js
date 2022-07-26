@@ -29,7 +29,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />}>
           <Route index element={<Home />} />
-          <Route path="instagram-captions" element={<Home />} />
+          <Route path="/instagram-captions" element={<Home />} />
         </Route>
       </Routes>
     </BrowserRouter>
