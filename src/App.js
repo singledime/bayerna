@@ -1,5 +1,5 @@
 import "./App.css";
-
+import { useEffect } from "react";
 import { ToastContainer } from "react-toastify";
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
@@ -8,9 +8,12 @@ import Home from "./pages/Home";
 import "react-toastify/dist/ReactToastify.css";
 import ReactGA from "react-ga";
 const TRACKING_ID = "UA-235960528-1"; // OUR_TRACKING_ID
-ReactGA.initialize(TRACKING_ID);
 
 function App() {
+  useEffect(() => {
+    ReactGA.initialize(TRACKING_ID);
+    ReactGA.pageview("/");
+  }, []);
   return (
     <BrowserRouter>
       <ToastContainer
