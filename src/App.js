@@ -7,7 +7,7 @@ import Home from "./pages/Home";
 
 import "react-toastify/dist/ReactToastify.css";
 import ReactGA from "react-ga";
-const TRACKING_ID = "UA-235960528-1"; // OUR_TRACKING_ID
+const TRACKING_ID = "UA-236856540-1"; // OUR_TRACKING_ID
 
 function App() {
   useEffect(() => {
