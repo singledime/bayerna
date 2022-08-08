@@ -43,9 +43,7 @@ export default function Home() {
   return (
     <div>
       {/* header */}
-      <div>
-        <h1 className="header">Instagram Captions</h1>
-      </div>
+      <div className="header">Instagram Captions</div>
 
       <div className="padd-horz">
         {/* caption-category */}
@@ -118,7 +116,7 @@ export default function Home() {
             <p>
               As a person who shares all these posts, reels and stories it's
               hard to come up with a caption each time you are sharing
-              something. Bayerna 'Captions for Instagram' is a tool that
+              something. Instacaptions 'Captions for Instagram' is a tool that
               provides a solution for all your caption needs.
             </p>
           </div>
@@ -153,7 +151,7 @@ export default function Home() {
             <p>5. Unlimited captions</p>
           </div>
           <div className="title-info" style={{}}>
-            <h3>How to use Bayerna's Instagram Captions tool?</h3>
+            <h3>How to use Instacaptions's Instagram Captions tool?</h3>
           </div>
           <div className="intro-para">
             <p>
@@ -162,7 +160,7 @@ export default function Home() {
             </p>
           </div>{" "}
           <div className="intro-para">
-            <p>1. Visit bayerna.com in your browser</p>
+            <p>1. Visit Instacaptions.com in your browser</p>
           </div>{" "}
           <div className="intro-para">
             <p>2. Select the right category for you</p>
@@ -188,9 +186,9 @@ export default function Home() {
               Our team researches Instagram and its marketing potential for
               personal blogs and brands. We specifically concentrated on the
               possibilities that a  good caption can bring to the table.
-               Bayerna captions is a single space that has the captions we have
-              collected from different resources so that we could satisfy all
-              your caption needs. Bayerna Captions specialities are ;{" "}
+               Instacaptions captions is a single space that has the captions we
+              have collected from different resources so that we could satisfy
+              all your caption needs. Instacaptions Captions specialities are ;{" "}
             </p>
           </div>{" "}
           <div className="intro-para">
